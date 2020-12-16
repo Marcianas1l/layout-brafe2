@@ -4,7 +4,7 @@
 
 Para visualizar a página publicada: 
 
-https://marcianas1l.github.io/page-brafe/
+https://marcianas1l.github.io/layout-brafe2/
 
 ![page-brafe](img/brafe2.gif)
 
